@@ -2,7 +2,7 @@
 require 'pry'
 require 'yaml'
 
-def load_library(file-path)
+def load_library(file_path)
   # code goes here
 end
 
